@@ -1,0 +1,35 @@
+.Replacement__item {
+    text-align: left;
+}
+
+.Replacement_object{
+    text-align:left;
+}
+.Describe_object1{
+    text-align:left;
+}
+.moveLeft{
+    text-align: left !important;
+}
+.margin{
+    width: 100%;
+	padding-right: 60px;
+	padding-left: 60px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.titleHeadding {
+    text-align:left;
+    background: #0191c8;
+        color: #fff;
+        font-size: 14px;
+        margin: 0px;
+        padding: 0.663rem 12px;
+    
+    
+    
+    }
+
+#aa{
+    width: 140px;
+}

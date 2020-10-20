@@ -1,0 +1,102 @@
+.Describe__item {
+    text-align: left;
+    }
+    
+    .Describe_object1{
+        text-align:left;
+    }
+    .Describe_object2{
+        text-align:left;
+    }
+    .Describe_object3{
+        text-align:left;
+    }
+
+    body {
+        margin: 0;
+    }
+     
+    main {
+        margin: 16px;
+    }
+     
+    .navbar {
+        display: flex;
+        align-items: center;
+        
+        background: #0191c8;
+        color: white;
+        font-family: Helvetica;
+        font-weight: 300;
+    }
+     
+    .navbar__title {
+        margin-right: auto;
+        font-size: 150%;
+        padding: 12px 16px;
+    }
+    .right{
+        float: right;
+        border :none;
+        background-color: #0191c8;
+        color: white;
+        padding: 15px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+     
+    .navbar__item {
+        margin-right: auto;
+        padding: 12px 12px;
+        cursor: pointer;
+        vertical-align: middle;
+    }
+    .Radio__item {
+        margin-right: auto;
+        padding: 12px 12px;
+        cursor: pointer;
+        vertical-align: middle;
+    }
+
+    .Replacement__item {
+        text-align: left;
+    }
+    
+    .Replacement_object{
+        text-align:left;
+    }
+    .Describe_object1{
+        text-align:left;
+    }
+    .moveLeft{
+        text-align: left !important;
+    }
+    .margin{
+        width: 100%;
+        padding-right: 60px;
+        padding-left: 60px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .titleHeadding {
+        text-align:left;
+        background: #0191c8;
+            color: #fff;
+            font-size: 14px;
+            margin: 0px;
+            padding: 0.663rem 12px;
+        
+        
+        
+        }
+    
+    #aa{
+        width: 140px;
+    }
+    .Setting__item {
+        text-align: left;
+    }
